@@ -57,7 +57,7 @@ values=[x-221.38 666 count];
     text_str{3}=['Oscillation Count=' num2str(values(3),'%0.2f')];
     text_str{4}=['Maximum Amplitude=14.79'];
     text_str{5}=['mean position'];
-    text_str{6}=['Made by Rajan and Varad'];
+    text_str{6}=['Made by Rajan kumar singh'];
 position=[23 34; 600 600 ; 5 600;1 100;1 221;300 600];
 box_color={'red','green','magenta','blue','cyan','yellow'};
 img=insertText(img,position,text_str,'fontSize',18,'BoxColor', box_color,'BoxOpacity',0.5,'TextColor','white');
